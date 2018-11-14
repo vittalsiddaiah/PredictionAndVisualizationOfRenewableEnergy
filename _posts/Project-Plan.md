@@ -1,23 +1,15 @@
-## Analysis and Visualization of Renewable Energy
-
-[Live Demo]
-(https://vittalsiddaiah.github.io/AnalysisAndVisualizationOfRenewableEnergy/)
-
---------
-
-
-In the world today, there is an increasing demand of up to 5% of energy required. Whereas fossil-fuel-reserves covering that need is depleting much faster than the expected. 
-Ever since the advent of fossil fuel over a century, automobiles have been increasing and hence the increase in carbon levels in the atmosphere due to the automobiles.
-With the growing adverse impacts of fossil fuels on the environment, there is an increasing demand of using renewable energy sources. Most commonly used energy sources are wind and solar energy.
-In our research, we analyze wind and solar energy.  The primary parameter for wind energy is wind speed, hence accurate evaluation of wind speed energy is critical.  Most popularly used Weibull PDF (Probably Density Function) is not statistically accepted. Similarly for solar panels sunlight and temperature is very important.  This is an attempt to analyze the renewable energy.
-
-
---------
-
-
-[Live Demo](https://vittalsiddaiah.github.io/AnalysisAndVisualizationOfRenewableEnergy/)
-
------
+---
+layout: post
+cover: 'assets/images/cover3.jpg'
+navigation: True
+title: A Full and Comprehensive Style Test
+date: 2018-11-07 18:18:00
+tags: test content
+subclass: 'post tag-test tag-content'
+logo: 'assets/images/ghost.png'
+author: casper
+categories: casper
+---
 
 # Power Generated of a Wind Turbine
 
