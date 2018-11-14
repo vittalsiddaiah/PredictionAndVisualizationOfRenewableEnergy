@@ -31,4 +31,4 @@ The theoretical maximum power efficiency of any design of wind turbine is 0.59 (
 
 Wind is made up of moving air molecules which have mass – though not a lot. Any moving object with mass carries kinetic energy in an amount which is given by the equation:
 
-The Dash Board ![alt text](https://github.com/vittalsiddaiah/UTDataAnalyticsAssignments/blob/master/images/Assignment_01_01.png?raw=true)
+The Dash Board ![alt text](https://github.com/vittalsiddaiah/AnalysisAndVisualizationOfRenewableEnergy/blob/master/assets/images/PowerGenerated.png?raw=true)
