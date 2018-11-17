@@ -33,7 +33,3 @@ Wind is made up of moving air molecules which have mass – though not a lot. An
 
 The Dash Board ![alt text](https://github.com/vittalsiddaiah/AnalysisAndVisualizationOfRenewableEnergy/blob/master/assets/images/PowerGenerated.png?raw=true)
 
-
-
-
-The Dash Board ![alt text]https://public.tableau.com/shared/5QQMPRNJJ?:display_count=yes
