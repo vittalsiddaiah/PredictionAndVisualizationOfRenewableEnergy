@@ -23,10 +23,6 @@ So when will our fossil fuels run out?
 
 The rate at which the world consumes fossil fuels is not standing still, it is increasing as the world's population increases, and as living standards rise in parts of the world that, until recently, had consumed very little energy.  Fossil fuels will therefore run out earlier.      
 
-Graph showing future energy reserves for coal, gas and oil
-
-Graph![alt text](https://github.com/vittalsiddaiah/AnalysisAndVisualizationOfRenewableEnergy/tree/master/assets/images/end-of-fossil-fuels-graph.jpg?raw=true)
-
 
 For more Details:
 [Ref](https://www.ecotricity.co.uk/our-green-energy/energy-independence/the-end-of-fossil-fuels) 
