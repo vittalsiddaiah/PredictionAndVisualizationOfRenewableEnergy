@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Analysis and Visualization of Renewable Energy'
+name: 'Prediction and Visualization of Renewable Energy'
 description: "Wind and Sunlight is available in abundance while we continue to pollute the planet with Fossil Fuel..."
 
 short_url: 'jekyller.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: vittalsiddaiah
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /AnalysisAndVisualizationOfRenewableEnergy/
+baseurl: /PredictionAndVisualizationOfRenewableEnergy/
 
 # Permalinks
 permalink: /:title
@@ -50,8 +50,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://github.com/vittalsiddaiah/AnalysisAndVisualizationOfRenewableEnergy.git
-source_url:  https://github.com/vittalsiddaiah/AnalysisAndVisualizationOfRenewableEnergy.git
+production_url:  https://github.com/vittalsiddaiah/PredictionAndVisualizationOfRenewableEnergy.git
+source_url:  https://github.com/vittalsiddaiah/PredictionAndVisualizationOfRenewableEnergy.git
 
 exclude:
   - README.md
