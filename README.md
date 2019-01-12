@@ -1,6 +1,6 @@
 ## Analysis and Visualization of Renewable Energy
 
-[Live Demo](https://vittalsiddaiah.github.io/AnalysisAndVisualizationOfRenewableEnergy/)
+[Live Demo](https://vittalsiddaiah.github.io/PredictionAndVisualizationOfRenewableEnergy/)
 
 --------
 
@@ -14,7 +14,7 @@ In our research, we analyze wind and solar energy.  The primary parameter for wi
 --------
 
 
-[Live Demo](https://vittalsiddaiah.github.io/AnalysisAndVisualizationOfRenewableEnergy/)
+[Live Demo](https://vittalsiddaiah.github.io/PredictionAndVisualizationOfRenewableEnergy/)
 
 -----
 
